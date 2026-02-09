@@ -55,10 +55,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/Azuraa">
     <img src="[https://spotify-recently-played-readme.vercel.app/api?user=Azuraa&count=5&unique=false](https://spotify-recently-played-readme.vercel.app/api?user=2aacqmuravpfks537wl8474o3)" alt="Spotify recently played"  />
