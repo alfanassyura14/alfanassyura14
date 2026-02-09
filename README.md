@@ -4,7 +4,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alfanassyura14/alfanassyura14/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/alfanassyura14/alfanassyura14/output/snake.svg](https://raw.githubusercontent.com/alfanassyura14/alfanassyura14/output/snake.svg
+)" alt="Snake animation" />
 
 ###
 
