@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfanassyura14&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/alfanassyura14/alfanassyura14/output/pacman-contribution-graph.svg" />
 </div>
+
 
 ###
 
