@@ -18,7 +18,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: alfanassyura14
-          theme: dark
+          theme: github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
